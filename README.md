@@ -16,6 +16,12 @@ A simple Caesar Cipher tool to encrypt and decrypt messages using a user-defined
 - Supports both encryption and decryption
 - CLI-based interaction
 
+## 📦 Requirements
+
+This tool uses only built-in Python functionality.  
+No external libraries are needed.
+
+
 ## ▶️ How to Run
 
 ```bash
